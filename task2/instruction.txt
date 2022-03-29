@@ -1,0 +1,6 @@
+hit the url index.php?command=OPEN PerfLogs
+hit the url index.php?command=OPEN Users
+hit the url index.php?command=OPEN Intel
+hit the url index.php?command=BACK
+hit the url index.php?command=BACK
+hit the url index.php?command=QUIT
